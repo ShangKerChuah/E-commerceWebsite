@@ -1,7 +1,7 @@
 # E-commerceWebsite
-A simple php e-commerce website created for Web Programming Assignment. <br>
+A simple php e-commerce website created for Web Programming Assignment. <br/>
 
-##Language Used##
+#Language Used##
 -Php <br>
 -Html<br>
 -Css; Bootstrap<br>
