@@ -14,7 +14,7 @@
   if (isset($_SESSION['name']) && ($_SESSION['userid'] == '1'))
   {
     $name = htmlspecialchars($_SESSION['name']);
-	$id = htmlspecialchars($_SESSION['userid']);
+    $id = htmlspecialchars($_SESSION['userid']);
 	 
     echo " <a href='editProduct.php'>EditProduct</a> ";
 
